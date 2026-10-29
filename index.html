@@ -128,7 +128,7 @@ footer { margin-top: 28px; color: var(--muted); font-size: .82rem; text-align: c
     if (ids.length > 1) {  // a joined Thai word: show its split, then each part in brief
       var rs = ids.map(function (k) { var e = v.querySelector('.r [data-w="' + k + '"]'); return e ? e.textContent : ''; }).join(' ');
       var h = '<div class="ph"><b>' + esc(t ? t.textContent : '') + '</b><i>' + esc(rs) + '</i></div>'
-        + row('แยกบท', esc(ids.map(function (k) { return WD[k] ? WD[k][8] : ''; }).join(' - ')));
+        + row('แยกบท', esc(ids.map(function (k) { return WD[k] ? WD[k][8] : ''; }).join('-')));
       ids.forEach(function (k) { var e = WD[k]; if (e) h += row(esc(e[8]), esc(e[4]) + (e[2] ? ' <span class="sm">· ' + esc(e[2]) + '</span>' : '')); });
       pop.innerHTML = h + row('ในที่นี้', esc(ours.join(' … '))) + row('ดูต่อ', '<a href="#wnote" class="sm">ความหมายนี้มาจากไหน</a>');
     } else
