@@ -10,6 +10,7 @@ Not to be confused with the Thai prose *Anāgatavaṃsa* on ten future Buddhas, 
 
 - `index.html`: the reading page; works on phones; Thai script, roman and the Thai translation can each be shown or hidden.
 - `anagatavamsa-thai-a5.pdf`: an A5 print copy, 17 pages.
+- `media/anagatavamsa-demo-th.mp4`: a one-minute how-to video of the reading page, with Thai narration and captions.
 - `data/verse.tsv`: one row per pāda (590 rows). Columns: `key` (e.g. `v12.3` = verse 12, third pāda), `verse`, `pada`, `page` (the PTS page), `roman`, `thai`.
 - `data/translation.tsv`: the Thai translation, one row per verse. Columns: `key` (`v12` = verse 12; `head` and `end` are the opening homage and the closing line), `verse`, `thai`, `note` (translator's notes, in English).
 - `data/terms.tsv`: the names and terms used in the translation.
