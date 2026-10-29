@@ -1,0 +1,593 @@
+key	verse	pada	page	roman	thai
+head			41	namo tassa bhagavato arahato sammāsambuddhassa	นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส
+v1.1	1	1	41	sāriputto mahāpañño	สาริปุตฺโต มหาปญฺโญ
+v1.2	1	2	41	upatisso vināyako	อุปติสฺโส วินายโก
+v1.3	1	3	41	dhammasenāpati dhīro	ธมฺมเสนาปติ ธีโร
+v1.4	1	4	41	upetvā lokanāyakaṃ	อุเปตฺวา โลกนายกํ
+v2.1	2	1	41	anāgataṃ jin' ārabbha	อนาคตํ ชินฺ' อารพฺภ
+v2.2	2	2	41	āpucchi kaṅkham attano	อาปุจฺฉิ กงฺขมฺ อตฺตโน
+v2.3	2	3	41	tuyh' ānantariko dhīro	ตุยฺหฺ' อานนฺตริโก ธีโร
+v2.4	2	4	41	buddho kīdisako bhave	พุทฺโธ กีทิสโก ภเว
+v3.1	3	1	41	vitthāren' eva 'haṃ sotum	วิตฺถาเรนฺ' เอว 'หํ โสตุมฺ
+v3.2	3	2	41	icchām' ācikkha cakkhumā	อิจฺฉามฺ' อาจิกฺข จกฺขุมา
+v3.3	3	3	41	therassa vacanaṃ sutvā	เถรสฺส วจนํ สุตฺวา
+v3.4	3	4	41	bhagavā etad abravi	ภควา เอตทฺ อพฺรวิ
+v4.1	4	1	41	anappakaṃ puññarāsiṃ	อนปฺปกํ ปุญฺญราสิํ
+v4.2	4	2	41	ajitassa mahāyasaṃ	อชิตสฺส มหายสํ
+v4.3	4	3	41	na sakkā sabbaso vattuṃ	น สกฺกา สพฺพโส วตฺตุํ
+v4.4	4	4	41	vitthāren' eva kassaci	วิตฺถาเรนฺ' เอว กสฺสจิ
+v4.5	4	5	41	ekadesena vakkhāmi	เอกเทเสน วกฺขามิ
+v4.6	4	6	41	sāriputta suṇohi me	สาริปุตฺต สุโณหิ เม
+v5.1	5	1	41	imasmiṃ bhaddake kappe	อิมสฺมิํ ภทฺทเก กปฺเป
+v5.2	5	2	41	asaṃjāte vassakoṭiye	อสํชาเต วสฺสโกฏิเย
+v5.3	5	3	41	metteyyo nāma nāmena	เมตฺเตยฺโย นาม นาเมน
+v5.4	5	4	41	sambuddho dvipaduttamo	สมฺพุทฺโธ ทฺวิปทุตฺตโม
+v6.1	6	1	41	mahāpuñño mahāpañño	มหาปุญฺโญ มหาปญฺโญ
+v6.2	6	2	41	mahāñānī mahāyaso	มหาญานี มหายโส
+v6.3	6	3	41	mahabbalo mahāthāmo	มหพฺพโล มหาถาโม
+v6.4	6	4	41	uppajjissati cakkhumā	อุปฺปชฺชิสฺสติ จกฺขุมา
+v7.1	7	1	41	mahāgati sati c' eva	มหาคติ สติ จฺ' เอว
+v7.2	7	2	41	dhītimā bāhusaccavā	ธีติมา พาหุสจฺจวา
+v7.3	7	3	41	saṃkhāto sabbadhammānaṃ	สํขาโต สพฺพธมฺมานํ
+v7.4	7	4	41	ñāto diṭṭho suphassito	ญาโต ทิฏฺโฐ สุผสฺสิโต
+v7.5	7	5	41	pariyogāḷho parāmaṭṭho	ปริโยคาฬฺโห ปรามฏฺโฐ
+v7.6	7	6	41	uppajjissati so jino	อุปฺปชฺชิสฺสติ โส ชิโน
+v8.1	8	1	42	tadā ketumatī nāma	ตทา เกตุมตี นาม
+v8.2	8	2	42	rājadhānī bhavissati	ราชธานี ภวิสฺสติ
+v8.3	8	3	42	dvādasayojanāyāmā	ทฺวาทสโยชนายามา
+v8.4	8	4	42	sattayojanavitthatā	สตฺตโยชนวิตฺถตา
+v9.1	9	1	42	ākiṇṇā naranārīhi	อากิณฺณา นรนารีหิ
+v9.2	9	2	42	pāsādehi vicittitā	ปาสาเทหิ วิจิตฺติตา
+v9.3	9	3	42	sevitā suddhasattehi	เสวิตา สุทฺธสตฺเตหิ
+v9.4	9	4	42	ajeyyā dhammarakkhitā	อเชยฺยา ธมฺมรกฺขิตา
+v10.1	10	1	42	saṅkho nāmāsi so rājā	สงฺโข นามาสิ โส ราชา
+v10.2	10	2	42	anantabalavāhano	อนนฺตพลวาหโน
+v10.3	10	3	42	sattaratanasaṃpanno	สตฺตรตนสํปนฺโน
+v10.4	10	4	42	cakkavattī mahabbalo	จกฺกวตฺตี มหพฺพโล
+v11.1	11	1	42	iddhimā yasavā c' eva	อิทฺธิมา ยสวา จฺ' เอว
+v11.2	11	2	42	sabbakāmasamappito	สพฺพกามสมปฺปิโต
+v11.3	11	3	42	hatapaccatthikaṃ khemaṃ	หตปจฺจตฺถิกํ เขมํ
+v11.4	11	4	42	anusāsissati dhammato	อนุสาสิสฺสติ ธมฺมโต
+v12.1	12	1	42	pāsādo sukato tattha	ปาสาโท สุกโต ตตฺถ
+v12.2	12	2	42	dibbavimānasādiso	ทิพฺพวิมานสาทิโส
+v12.3	12	3	42	puññakammābhinibbato	ปุญฺญกมฺมาภินิพฺพโต
+v12.4	12	4	42	nānāratanacittito	นานารตนจิตฺติโต
+v13.1	13	1	42	vedikāhi parikkhitto	เวทิกาหิ ปริกฺขิตฺโต
+v13.2	13	2	42	suvibhatto manoramo	สุวิภตฺโต มโนรโม
+v13.3	13	3	42	pabhassaraccuggato seṭṭho	ปภสฺสรจฺจุคฺคโต เสฏฺโฐ
+v13.4	13	4	42	duddikkho cakkhumusano	ทุทฺทิกฺโข จกฺขุมุสโน
+v14.1	14	1	42	rañño mahāpanādassa	รญฺโญ มหาปนาทสฺส
+v14.2	14	2	42	pavatto ratanamayo	ปวตฺโต รตนมโย
+v14.3	14	3	42	taṃ yūpaṃ ussāpetvāna	ตํ ยูปํ อุสฺสาเปตฺวาน
+v14.4	14	4	42	saṅkho rājā vasissati	สงฺโข ราชา วสิสฺสติ
+v15.1	15	1	42	athāpi tasmiṃ nagare	อถาปิ ตสฺมิํ นคเร
+v15.2	15	2	42	nānāvīthī tahiṃ tahiṃ	นานาวีถี ตหิํ ตหิํ
+v15.3	15	3	42	sumāpitā pokkharaṇī	สุมาปิตา โปกฺขรณี
+v15.4	15	4	42	ramaṇīyā supatiṭṭhā	รมณียา สุปติฏฺฐา
+v16.1	16	1	43	acchodakā vippasannā	อจฺโฉทกา วิปฺปสนฺนา
+v16.2	16	2	43	sādusītā sugandhikā	สาทุสีตา สุคนฺธิกา
+v16.3	16	3	43	samatitthikā kākapeyyā	สมติตฺถิกา กากเปยฺยา
+v16.4	16	4	43	atho vālukasaṃṭhatā	อโถ วาลุกสํฐตา
+v17.1	17	1	43	padumuppalasaṃchannā	ปทุมุปฺปลสํฉนฺนา
+v17.2	17	2	43	sabbotukam anāvaṭā	สพฺโพตุกมฺ อนาวฏา
+v17.3	17	3	43	satt' eva tālapantiyo	สตฺตฺ' เอว ตาลปนฺติโย
+v17.4	17	4	43	sattavaṇṇikapākārā	สตฺตวณฺณิกปาการา
+v18.1	18	1	43	ratanamayā parikkhittā	รตนมยา ปริกฺขิตฺตา
+v18.2	18	2	43	nagarasmiṃ samantato	นครสฺมิํ สมนฺตโต
+v18.3	18	3	43	kusāvatī rājadhānī	กุสาวตี ราชธานี
+v18.4	18	4	43	tadā ketumatī bhave	ตทา เกตุมตี ภเว
+v19.1	19	1	43	catukke nagaradvāre	จตุกฺเก นครทฺวาเร
+v19.2	19	2	43	kapparukkhā bhavissare	กปฺปรุกฺขา ภวิสฺสเร
+v19.3	19	3	43	nīlaṃ pītaṃ lohitakaṃ	นีลํ ปีตํ โลหิตกํ
+v19.4	19	4	43	odātañ ca pabhassarā	โอทาตญฺ จ ปภสฺสรา
+v20.1	20	1	43	nibbattā dibbadussāni	นิพฺพตฺตา ทิพฺพทุสฺสานิ
+v20.2	20	2	43	dibbā c' eva pasādhanā	ทิพฺพา จฺ' เอว ปสาธนา
+v20.3	20	3	43	upabhogaparibhogā	อุปโภคปริโภคา
+v20.4	20	4	43	ca sabbe tatth' ūpalambare	จ สพฺเพ ตตฺถฺ' อูปลมฺพเร
+v21.1	21	1	43	tato nagaramajjhamhi	ตโต นครมชฺฌมฺหิ
+v21.2	21	2	43	catusālaṃ catumukhaṃ	จตุสาลํ จตุมุขํ
+v21.3	21	3	43	puññakammābhinibbatto	ปุญฺญกมฺมาภินิพฺพตฺโต
+v21.4	21	4	43	kapparukkho bhavissati	กปฺปรุกฺโข ภวิสฺสติ
+v22.1	22	1	43	kappāsikañ ca koseyyaṃ	กปฺปาสิกญฺ จ โกเสยฺยํ
+v22.2	22	2	43	khomakodumbarāni ca	โขมโกทุมฺพรานิ จ
+v22.3	22	3	43	puññakammābhinibbattā	ปุญฺญกมฺมาภินิพฺพตฺตา
+v22.4	22	4	43	kapparukkhesu lambare	กปฺปรุกฺเขสุ ลมฺพเร
+v23.1	23	1	43	pāṇissarā mutiṅgā ca	ปาณิสฺสรา มุติงฺคา จ
+v23.2	23	2	43	murajālambarāni ca	มุรชาลมฺพรานิ จ
+v23.3	23	3	43	puññakammābhinibbattā	ปุญฺญกมฺมาภินิพฺพตฺตา
+v23.4	23	4	43	kapparukkhesu lambare	กปฺปรุกฺเขสุ ลมฺพเร
+v24.1	24	1	43	parihārañ ca kāyuraṃ	ปริหารญฺ จ กายุรํ
+v24.2	24	2	43	gīveyyaṃ ratanamayaṃ	คีเวยฺยํ รตนมยํ
+v24.3	24	3	43	puññakammābhinibbattā	ปุญฺญกมฺมาภินิพฺพตฺตา
+v24.4	24	4	43	kapparukkhesu lambare	กปฺปรุกฺเขสุ ลมฺพเร
+v25.1	25	1	44	uṇṇataṃ mukhaphullañ ca	อุณฺณตํ มุขผุลฺลญฺ จ
+v25.2	25	2	44	aṅgadāmanī mekhalā	องฺคทามนี เมขลา
+v25.3	25	3	44	puññakammābhinibbattā	ปุญฺญกมฺมาภินิพฺพตฺตา
+v25.4	25	4	44	kapparukkhesu lambare	กปฺปรุกฺเขสุ ลมฺพเร
+v26.1	26	1	44	aññe ca nānāvividhā	อญฺเญ จ นานาวิวิธา
+v26.2	26	2	44	sabbābharaṇabhūsanā	สพฺพาภรณภูสนา
+v26.3	26	3	44	puññakammābhinibbattā	ปุญฺญกมฺมาภินิพฺพตฺตา
+v26.4	26	4	44	kapparukkhesu lambare	กปฺปรุกฺเขสุ ลมฺพเร
+v27.1	27	1	44	āropitaṃ sayaṃjātaṃ	อาโรปิตํ สยํชาตํ
+v27.2	27	2	44	puññakammena jantūnaṃ	ปุญฺญกมฺเมน ชนฺตูนํ
+v27.3	27	3	44	akaṇaṃ athusaṃ suddhaṃ	อกณํ อถุสํ สุทฺธํ
+v27.4	27	4	44	sugandhaṃ taṇḍulaphalaṃ	สุคนฺธํ ตณฺฑุลผลํ
+v27.5	27	5	44	akaṭṭhapākimaṃ sāliṃ	อกฏฺฐปากิมํ สาลิํ
+v27.6	27	6	44	paribhuñjanti manusā	ปริภุญฺชนฺติ มนุสา
+v28.1	28	1	44	dve sakaṭasahassāni	ทฺเว สกฏสหสฺสานิ
+v28.2	28	2	44	dve sakaṭasatāni ca	ทฺเว สกฏสตานิ จ
+v28.3	28	3	44	sakaṭe sattati c' eva	สกเฏ สตฺตติ จฺ' เอว
+v28.4	28	4	44	ambaṇaṃ soḷasaṃ bhave	อมฺพณํ โสฬสํ ภเว
+v29.1	29	1	44	atho pi dve ca tumbāni	อโถ ปิ ทฺเว จ ตุมฺพานิ
+v29.2	29	2	44	taṇḍulāni pavuccare	ตณฺฑุลานิ ปวุจฺจเร
+v29.3	29	3	44	ekabīje samuppannā	เอกพีเช สมุปฺปนฺนา
+v29.4	29	4	44	puññakammena jantūnaṃ	ปุญฺญกมฺเมน ชนฺตูนํ
+v30.1	30	1	44	ye ketumatiyā viharanti	เย เกตุมติยา วิหรนฺติ
+v30.2	30	2	44	saṅkhassa vijite narā	สงฺขสฺส วิชิเต นรา
+v30.3	30	3	44	tadā pi te bhavissanti	ตทา ปิ เต ภวิสฺสนฺติ
+v30.4	30	4	44	guṇī kāyuradhārino	คุณี กายุรธาริโน
+v31.1	31	1	44	saṃpuṇṇamanasaṃkappā	สํปุณฺณมนสํกปฺปา
+v31.2	31	2	44	sumukhā thūlakuṇḍalā	สุมุขา ถูลกุณฺฑลา
+v31.3	31	3	44	haricandanalittaṅgā	หริจนฺทนลิตฺตงฺคา
+v31.4	31	4	44	kāsikuttamadhārino	กาสิกุตฺตมธาริโน
+v32.1	32	1	44	bahutavittā dhanino	พหุตวิตฺตา ธนิโน
+v32.2	32	2	44	viṇātālappabodhanā	วิณาตาลปฺปโพธนา
+v32.3	32	3	44	accantasukhitā niccaṃ	อจฺจนฺตสุขิตา นิจฺจํ
+v32.4	32	4	44	kāyacetasikena ca	กายเจตสิเกน จ
+v33.1	33	1	45	dasayojanasahassāni	ทสโยชนสหสฺสานิ
+v33.2	33	2	45	jambūdīpo bhavissati	ชมฺพูทีโป ภวิสฺสติ
+v33.3	33	3	45	akaṇṭako agahano	อกณฺฏโก อคหโน
+v33.4	33	4	45	samoharitasaddalo	สโมหริตสทฺทโล
+v34.1	34	1	45	tayo rogā bhavissanti	ตโย โรคา ภวิสฺสนฺติ
+v34.2	34	2	45	icchā-anasanaṃ jarā	อิจฺฉา-อนสนํ ชรา
+v34.3	34	3	45	pañcavassasatitthīnaṃ	ปญฺจวสฺสสติตฺถีนํ
+v34.4	34	4	45	vivāhā ca bhavissanti	วิวาหา จ ภวิสฺสนฺติ
+v35.1	35	1	45	samaggā sakhilā niccaṃ	สมคฺคา สขิลา นิจฺจํ
+v35.2	35	2	45	avivādā bhavissare	อวิวาทา ภวิสฺสเร
+v35.3	35	3	45	saṃpannā phalapupphehi	สํปนฺนา ผลปุปฺเผหิ
+v35.4	35	4	45	latā gumbavanā dumā	ลตา คุมฺพวนา ทุมา
+v36.1	36	1	45	caturaṅgulā tiṇajāti	จตุรงฺคุลา ติณชาติ
+v36.2	36	2	45	mudukā tūlasannibhā	มุทุกา ตูลสนฺนิภา
+v36.3	36	3	45	nātisītā nāccuṇhā ca	นาติสีตา นาจฺจุณฺหา จ
+v36.4	36	4	45	samavassā mandamālutā	สมวสฺสา มนฺทมาลุตา
+v37.1	37	1	45	sabbadā utusaṃpannā	สพฺพทา อุตุสํปนฺนา
+v37.2	37	2	45	anūnā taḷākā nadī	อนูนา ตฬากา นที
+v37.3	37	3	45	tahiṃ tahiṃ bhūmibhāge	ตหิํ ตหิํ ภูมิภาเค
+v37.4	37	4	45	akharā suddhavālukā	อขรา สุทฺธวาลุกา
+v37.5	37	5	45	kalāyamuggamattiyo	กลายมุคฺคมตฺติโย
+v37.6	37	6	45	vikiṇṇā muttasādisā	วิกิณฺณา มุตฺตสาทิสา
+v38.1	38	1	45	alaṃkatuyyānam iva	อลํกตุยฺยานมฺ อิว
+v38.2	38	2	45	ramaṇīyo bhavissati	รมณีโย ภวิสฺสติ
+v38.3	38	3	45	gāmanigamā ākiṇṇā	คามนิคมา อากิณฺณา
+v38.4	38	4	45	accāsanne tahiṃ tahiṃ	อจฺจาสนฺเน ตหิํ ตหิํ
+v39.1	39	1	45	naḷaveḷuvanam iva	นฬเวฬุวนมฺ อิว
+v39.2	39	2	45	brahā kukkuṭasaṃpati	พฺรหา กุกฺกุฏสํปติ
+v39.3	39	3	45	avīci maññe va phuṭṭhā	อวีจิ มญฺเญ ว ผุฏฺฐา
+v39.4	39	4	45	manussehi bhavissare	มนุสฺเสหิ ภวิสฺสเร
+v40.1	40	1	45	pagāḷhā naranārīhi	ปคาฬฺหา นรนารีหิ
+v40.2	40	2	45	saṃpuṇṇā phuṭabhedanā	สํปุณฺณา ผุฏเภทนา
+v40.3	40	3	45	iddhā phitā ca khemā ca	อิทฺธา ผิตา จ เขมา จ
+v40.4	40	4	45	anītianupaddavā	อนีติอนุปทฺทวา
+v41.1	41	1	45	sadā rati sadā khiḍḍā	สทา รติ สทา ขิฑฺฑา
+v41.2	41	2	45	ekantasukhasamappitā	เอกนฺตสุขสมปฺปิตา
+v41.3	41	3	45	nakkhatte vicarissanti	นกฺขตฺเต วิจริสฺสนฺติ
+v41.4	41	4	45	tuṭṭhahaṭṭhā pamoditā	ตุฏฺฐหฏฺฐา ปโมทิตา
+v42.1	42	1	46	bahvannapānā bahubhakkhā	พหฺวนฺนปานา พหุภกฺขา
+v42.2	42	2	46	bahumaṃsasurodakā	พหุมํสสุโรทกา
+v42.3	42	3	46	ālakamandā 'va devānaṃ	อาลกมนฺทา 'ว เทวานํ
+v42.4	42	4	46	visālā rājadhānīva	วิสาลา ราชธานีว
+v42.5	42	5	46	kurūnam ramaṇīyo va	กุรูนมฺ รมณีโย ว
+v42.6	42	6	46	jambūdīpo bhavissati	ชมฺพูทีโป ภวิสฺสติ
+v43.1	43	1	46	ajito nāma nāmena	อชิโต นาม นาเมน
+v43.2	43	2	46	metteyyo dvipaduttamo	เมตฺเตยฺโย ทฺวิปทุตฺตโม
+v43.3	43	3	46	anubyañjanasaṃpanno	อนุพฺยญฺชนสํปนฺโน
+v43.4	43	4	46	dvattiṃsavaralakkhaṇo	ทฺวตฺติํสวรลกฺขโณ
+v44.1	44	1	46	suvaṇṇavaṇṇo vigatarajo	สุวณฺณวณฺโณ วิคตรโช
+v44.2	44	2	46	supabhāso jutiṃdharo	สุปภาโส ชุติํธโร
+v44.3	44	3	46	yasaggappatto sirimā	ยสคฺคปฺปตฺโต สิริมา
+v44.4	44	4	46	abhirūpo sudassano	อภิรูโป สุทสฺสโน
+v45.1	45	1	46	mahānubhāvo asamo	มหานุภาโว อสโม
+v45.2	45	2	46	jāyissati brahmaṇakule	ชายิสฺสติ พฺรหฺมณกุเล
+v45.3	45	3	46	mahaddhano mahābhogo	มหทฺธโน มหาโภโค
+v45.4	45	4	46	mahā ca kulamuttamo	มหา จ กุลมุตฺตโม
+v45.5	45	5	46	akkhitto jātivādena	อกฺขิตฺโต ชาติวาเทน
+v45.6	45	6	46	jāyissati brahmaṇakule	ชายิสฺสติ พฺรหฺมณกุเล
+v46.1	46	1	46	sirivaḍḍho vaḍḍhamāno	สิริวฑฺโฒ วฑฺฒมาโน
+v46.2	46	2	46	ca siddhattho c'eva candako	จ สิทฺธตฺโถ จฺ'เอว จนฺทโก
+v46.3	46	3	46	ajitatthāya uppannā	อชิตตฺถาย อุปฺปนฺนา
+v46.4	46	4	46	pāsādā ratanamayā	ปาสาทา รตนมยา
+v47.1	47	1	46	nāriyo sabbaṅgasampannā	นาริโย สพฺพงฺคสมฺปนฺนา
+v47.2	47	2	46	sabbābharaṇabhūsitā	สพฺพาภรณภูสิตา
+v47.3	47	3	46	mahāmajjhimakā cūḷā	มหามชฺฌิมกา จูฬา
+v47.4	47	4	46	ajitassa paricārikā	อชิตสฺส ปริจาริกา
+v48.1	48	1	46	anūnā satasahassā	อนูนา สตสหสฺสา
+v48.2	48	2	46	nāriyo samalaṃkatā	นาริโย สมลํกตา
+v48.3	48	3	46	candamukhī nāma nārī	จนฺทมุขี นาม นารี
+v48.4	48	4	46	putto so brahmavaddhano	ปุตฺโต โส พฺรหฺมวทฺธโน
+v49.1	49	1	46	ramissati ratisaṃpanno	รมิสฺสติ รติสํปนฺโน
+v49.2	49	2	46	modamāno mahāsukhe	โมทมาโน มหาสุเข
+v49.3	49	3	46	anubhutvā yasaṃ sabbaṃ	อนุภุตฺวา ยสํ สพฺพํ
+v49.4	49	4	46	nandane vāsavo yathā	นนฺทเน วาสโว ยถา
+v50.1	50	1	46	aṭṭha vassasahassāni	อฏฺฐ วสฺสสหสฺสานิ
+v50.2	50	2	46	agāramhi vasissati	อคารมฺหิ วสิสฺสติ
+v50.3	50	3	46	kadā ci ratim atthāya	กทา จิ รติมฺ อตฺถาย
+v50.4	50	4	46	gacchaṃ uyyāne kīḷituṃ	คจฺฉํ อุยฺยาเน กีฬิตุํ
+v51.1	51	1	46	kāmesv ādīnavaṃ dhīro	กาเมสฺวฺ อาทีนวํ ธีโร
+v51.2	51	2	46	bodhisattānaṃ dhammatā	โพธิสตฺตานํ ธมฺมตา
+v51.3	51	3	46	nimitte caturo disvā	นิมิตฺเต จตุโร ทิสฺวา
+v51.4	51	4	46	kāmarativināsane	กามรติวินาสเน
+v52.1	52	1	46	jiṇṇañ ca vyādhikañ c'eva	ชิณฺณญฺ จ วฺยาธิกญฺ จฺ'เอว
+v52.2	52	2	46	matañ ca gatamāyukaṃ	มตญฺ จ คตมายุกํ
+v52.3	52	3	46	sukhitaṃ pabbajjaṃ disvā	สุขิตํ ปพฺพชฺชํ ทิสฺวา
+v52.4	52	4	46	sabbabhūtānukampako	สพฺพภูตานุกมฺปโก
+v53.1	53	1	47	nibbindo kāmaratiyā	นิพฺพินฺโท กามรติยา
+v53.2	53	2	47	anapekkho mahāsukhe	อนเปกฺโข มหาสุเข
+v53.3	53	3	47	anuttaraṃ santapadaṃ	อนุตฺตรํ สนฺตปทํ
+v53.4	53	4	47	esamāno 'bhinikkhami	เอสมาโน 'ภินิกฺขมิ
+v54.1	54	1	47	sattāhaṃ padhānacāraṃ	สตฺตาหํ ปธานจารํ
+v54.2	54	2	47	caritvā purisuttamo	จริตฺวา ปุริสุตฺตโม
+v54.3	54	3	47	pāsāden' eva laṅghitvā	ปาสาเทนฺ' เอว ลงฺฆิตฺวา
+v54.4	54	4	47	nikkhamissati so jino	นิกฺขมิสฺสติ โส ชิโน
+v55.1	55	1	47	mittāmaccasahāyehi	มิตฺตามจฺจสหาเยหิ
+v55.2	55	2	47	ñātisālohitehi ca	ญาติสาโลหิเตหิ จ
+v55.3	55	3	47	caturaṅginīsenāya	จตุรงฺคินีเสนาย
+v55.4	55	4	47	parisāhi catuvaṇṇihi	ปริสาหิ จตุวณฺณิหิ
+v56.1	56	1	47	caturāsītisahassehi	จตุราสีติสหสฺเสหิ
+v56.2	56	2	47	rajakaññāhi purekkhato	รชกญฺญาหิ ปุเรกฺขโต
+v56.3	56	3	47	mahatā janakāyena	มหตา ชนกาเยน
+v56.4	56	4	47	ajito pabbajissati	อชิโต ปพฺพชิสฺสติ
+v57.1	57	1	47	caturāsītisahassāni	จตุราสีติสหสฺสานิ
+v57.2	57	2	47	brahmaṇā vedapāragū	พฺรหฺมณา เวทปารคู
+v57.3	57	3	47	metteyyasmiṃ pabbajite	เมตฺเตยฺยสฺมิํ ปพฺพชิเต
+v57.4	57	4	47	pabbajissanti te tadā	ปพฺพชิสฺสนฺติ เต ตทา
+v58.1	58	1	47	isidatto purāṇo ca	อิสิทตฺโต ปุราโณ จ
+v58.2	58	2	47	ubhayo te pi bhātaro	อุภโย เต ปิ ภาตโร
+v58.3	58	3	47	caturāsītisahassāni	จตุราสีติสหสฺสานิ
+v58.4	58	4	47	pabbajissanti te tadā	ปพฺพชิสฺสนฺติ เต ตทา
+v59.1	59	1	47	jātimitto vijayo ca	ชาติมิตฺโต วิชโย จ
+v59.2	59	2	47	yugā amitabuddhino	ยุคา อมิตพุทฺธิโน
+v59.3	59	3	47	paccupessanti sambuddhaṃ	ปจฺจุเปสฺสนฺติ สมฺพุทฺธํ
+v59.4	59	4	47	caturasītisahassato	จตุรสีติสหสฺสโต
+v60.1	60	1	47	suddhiko nāma gahapati	สุทฺธิโก นาม คหปติ
+v60.2	60	2	47	suddhanā ca upāsikā	สุทฺธนา จ อุปาสิกา
+v60.3	60	3	47	paccupessanti sambuddhaṃ	ปจฺจุเปสฺสนฺติ สมฺพุทฺธํ
+v60.4	60	4	47	caturāsītisahassato	จตุราสีติสหสฺสโต
+v61.1	61	1	47	saṃgho nāma upāsako	สํโฆ นาม อุปาสโก
+v61.2	61	2	47	saṃghā nāma upāsikā	สํฆา นาม อุปาสิกา
+v61.3	61	3	47	paccupessanti saṃbuddhaṃ	ปจฺจุเปสฺสนฺติ สํพุทฺธํ
+v61.4	61	4	47	caturāsītisahassato	จตุราสีติสหสฺสโต
+v62.1	62	1	47	saddharo nāma gahapati	สทฺธโร นาม คหปติ
+v62.2	62	2	47	sudatto iti vissuto	สุทตฺโต อิติ วิสฺสุโต
+v62.3	62	3	47	paccupessanti sambuddhaṃ	ปจฺจุเปสฺสนฺติ สมฺพุทฺธํ
+v62.4	62	4	47	caturāsītisahassato	จตุราสีติสหสฺสโต
+v63.1	63	1	47	itthī yasavatī nāma	อิตฺถี ยสวตี นาม
+v63.2	63	2	47	visākhā iti vissutā	วิสาขา อิติ วิสฺสุตา
+v63.3	63	3	47	caturāsītisahassehi	จตุราสีติสหสฺเสหิ
+v63.4	63	4	47	naranārīhi purekkhitā	นรนารีหิ ปุเรกฺขิตา
+v64.1	64	1	47	nikkhamissanti nekkhamaṃ	นิกฺขมิสฺสนฺติ เนกฺขมํ
+v64.2	64	2	47	metteyyassānusāsane	เมตฺเตยฺยสฺสานุสาสเน
+v64.3	64	3	47	aññe nāgarikā c'eva	อญฺเญ นาคริกา จฺ'เอว
+v64.4	64	4	47	tato jānapadā bahū	ตโต ชานปทา พหู
+v64.5	64	5	47	khattiyā brahmaṇā vessā	ขตฺติยา พฺรหฺมณา เวสฺสา
+v64.6	64	6	47	suddā c'eva anappakā	สุทฺทา จฺ'เอว อนปฺปกา
+v65.1	65	1	47	nekkhammābhimukhā hutvā	เนกฺขมฺมาภิมุขา หุตฺวา
+v65.2	65	2	47	nānājaccā mahājanā	นานาชจฺจา มหาชนา
+v65.3	65	3	47	metteyyassānupabbajjaṃ	เมตฺเตยฺยสฺสานุปพฺพชฺชํ
+v65.4	65	4	47	pabbajissanti te tadā	ปพฺพชิสฺสนฺติ เต ตทา
+v66.1	66	1	48	yasmiṃ ca divase dhīro	ยสฺมิํ จ ทิวเส ธีโร
+v66.2	66	2	48	nekkhammaṃ abhinikkhami	เนกฺขมฺมํ อภินิกฺขมิ
+v66.3	66	3	48	nikkhantadivase yeva	นิกฺขนฺตทิวเส เยว
+v66.4	66	4	48	bodhimaṇḍaṃ upehiti	โพธิมณฺฑํ อุเปหิติ
+v67.1	67	1	48	aparājite nisabhaṇḍāne	อปราชิเต นิสภณฺฑาเน
+v67.2	67	2	48	bodhipallaṅkamuttame	โพธิปลฺลงฺกมุตฺตเม
+v67.3	67	3	48	pallaṅkena nisīditvā	ปลฺลงฺเกน นิสีทิตฺวา
+v67.4	67	4	48	bujjhissati mahāyaso	พุชฺฌิสฺสติ มหายโส
+v68.1	68	1	48	upetvā uyyānavaraṃ	อุเปตฺวา อุยฺยานวรํ
+v68.2	68	2	48	phullaṃ nāgavanaṃ jino	ผุลฺลํ นาควนํ ชิโน
+v68.3	68	3	48	anuttaraṃ dhammacakkaṃ	อนุตฺตรํ ธมฺมจกฺกํ
+v68.4	68	4	48	evaṃ so vattayissati	เอวํ โส วตฺตยิสฺสติ
+v69.1	69	1	48	dukkhaṃ dukkhasamuppādaṃ	ทุกฺขํ ทุกฺขสมุปฺปาทํ
+v69.2	69	2	48	dukkhassa ca atikkamaṃ	ทุกฺขสฺส จ อติกฺกมํ
+v69.3	69	3	48	ariyaṭṭhaṅgikaṃ maggaṃ	อริยฏฺฐงฺคิกํ มคฺคํ
+v69.4	69	4	48	dukkhūpasamagāminaṃ	ทุกฺขูปสมคามินํ
+v70.1	70	1	48	tadā manussā hessanti	ตทา มนุสฺสา เหสฺสนฺติ
+v70.2	70	2	48	samantā satayojane	สมนฺตา สตโยชเน
+v70.3	70	3	48	parisā lokanāthassa	ปริสา โลกนาถสฺส
+v70.4	70	4	48	dhammacakkapavattane	ธมฺมจกฺกปวตฺตเน
+v71.1	71	1	48	tato bhiyyo bahū devā	ตโต ภิยฺโย พหู เทวา
+v71.2	71	2	48	upessanti tahiṃ jinaṃ	อุเปสฺสนฺติ ตหิํ ชินํ
+v71.3	71	3	48	nesaṃ mocessati tadā	เนสํ โมเจสฺสติ ตทา
+v71.4	71	4	48	bandhanā satasahassakoṭīnaṃ	พนฺธนา สตสหสฺสโกฏีนํ
+v72.1	72	1	48	tadā so saṅkharājāca	ตทา โส สงฺขราชาจ
+v72.2	72	2	48	pāsādaṃ ratanamayaṃ	ปาสาทํ รตนมยํ
+v72.3	72	3	48	jinapāmokkhasaṃghassa	ชินปาโมกฺขสํฆสฺส
+v72.4	72	4	48	niyyādetvā punāparaṃ	นิยฺยาเทตฺวา ปุนาปรํ
+v73.1	73	1	48	mahādānaṃ daditvāna	มหาทานํ ททิตฺวาน
+v73.2	73	2	48	kapaṇiddhikavanibbake	กปณิทฺธิกวนิพฺพเก
+v73.3	73	3	48	taramānarūpo sambuddhaṃ	ตรมานรูโป สมฺพุทฺธํ
+v73.4	73	4	48	deviyā saham ekato	เทวิยา สหมฺ เอกโต
+v74.1	74	1	48	mahārājānubhāvena	มหาราชานุภาเวน
+v74.2	74	2	48	anantabalavāhano	อนนฺตพลวาหโน
+v74.3	74	3	48	navutikoṭisahassehi	นวุติโกฏิสหสฺเสหิ
+v74.4	74	4	48	saddhiṃ jinam upehiti	สทฺธิํ ชินมฺ อุเปหิติ
+v75.1	75	1	48	tadā hanissati sambuddho	ตทา หนิสฺสติ สมฺพุทฺโธ
+v75.2	75	2	48	dhammabheriṃ varuttamaṃ	ธมฺมเภริํ วรุตฺตมํ
+v75.3	75	3	48	amataṃ dudrabhinighosaṃ	อมตํ ทุทฺรภินิโฆสํ
+v75.4	75	4	48	catusaccapakāsanaṃ	จตุสจฺจปกาสนํ
+v76.1	76	1	48	rañño anucarā janatā	รญฺโญ อนุจรา ชนตา
+v76.2	76	2	48	navatisahassakoṭiyo	นวติสหสฺสโกฏิโย
+v76.3	76	3	48	sabbe va te niravasesā	สพฺเพ ว เต นิรวเสสา
+v76.4	76	4	48	bhavissante hi bhikkhukā	ภวิสฺสนฺเต หิ ภิกฺขุกา
+v77.1	77	1	48	tato devā manussā ca	ตโต เทวา มนุสฺสา จ
+v77.2	77	2	48	upetvā lokanāyakaṃ	อุเปตฺวา โลกนายกํ
+v77.3	77	3	48	arahattavaram ārabbha	อรหตฺตวรมฺ อารพฺภ
+v77.4	77	4	48	pañhaṃ pucchissare jinaṃ	ปญฺหํ ปุจฺฉิสฺสเร ชินํ
+v78.1	78	1	49	tesaṃ jino byākareyya	เตสํ ชิโน พฺยากเรยฺย
+v78.2	78	2	49	arahattavarapattiyā	อรหตฺตวรปตฺติยา
+v78.3	78	3	49	asītikoṭisahassehi	อสีติโกฏิสหสฺเสหิ
+v78.4	78	4	49	tatiyābhisamayo bhave	ตติยาภิสมโย ภเว
+v79.1	79	1	49	khīṇāsavānaṃ vimalānaṃ	ขีณาสวานํ วิมลานํ
+v79.2	79	2	49	santacittānaṃ tādīnaṃ	สนฺตจิตฺตานํ ตาทีนํ
+v79.3	79	3	49	koṭisatasahassānaṃ	โกฏิสตสหสฺสานํ
+v79.4	79	4	49	paṭhamo hessati samāgamo	ปฐโม เหสฺสติ สมาคโม
+v80.1	80	1	49	vassaṃ vuṭṭhassa bhagavato	วสฺสํ วุฏฺฐสฺส ภควโต
+v80.2	80	2	49	abhighuṭṭhe pavāraṇe	อภิฆุฏฺเฐ ปวารเณ
+v80.3	80	3	49	navutikoṭisahassehi	นวุติโกฏิสหสฺเสหิ
+v80.4	80	4	49	parivāressati so jino	ปริวาเรสฺสติ โส ชิโน
+v81.1	81	1	49	yadā ca himavantamhi	ยทา จ หิมวนฺตมฺหิ
+v81.2	81	2	49	pabbate gandhamādane	ปพฺพเต คนฺธมาทเน
+v81.3	81	3	49	hemarajatapabbhāre	เหมรชตปพฺภาเร
+v81.4	81	4	49	pavivekagato muni	ปวิเวกคโต มุนิ
+v82.1	82	1	49	asītikoṭisahassehi	อสีติโกฏิสหสฺเสหิ
+v82.2	82	2	49	santacittehi tādīhi	สนฺตจิตฺเตหิ ตาทีหิ
+v82.3	82	3	49	khīṇāsavehi vimalehi	ขีณาสเวหิ วิมเลหิ
+v82.4	82	4	49	kīḷissati jhānakīḷitaṃ	กีฬิสฺสติ ฌานกีฬิตํ
+v83.1	83	1	49	koṭisatasahassāni	โกฏิสตสหสฺสานิ
+v83.2	83	2	49	chaḷabhiññā mahiddhikā	ฉฬภิญฺญา มหิทฺธิกา
+v83.3	83	3	49	metteyyaṃ lokanāthaṃ taṃ	เมตฺเตยฺยํ โลกนาถํ ตํ
+v83.4	83	4	49	parivāressanti sabbadā	ปริวาเรสฺสนฺติ สพฺพทา
+v84.1	84	1	49	paṭisambhidāsu kusalā	ปฏิสมฺภิทาสุ กุสลา
+v84.2	84	2	49	niruttipadakovidā	นิรุตฺติปทโกวิทา
+v84.3	84	3	49	bahussutā dhammadharā	พหุสฺสุตา ธมฺมธรา
+v84.4	84	4	49	viyattā saṃghasobhanā	วิยตฺตา สํฆโสภนา
+v85.1	85	1	49	sudantā soratā dhīrā	สุทนฺตา โสรตา ธีรา
+v85.2	85	2	49	parivāressanti taṃ jinaṃ	ปริวาเรสฺสนฺติ ตํ ชินํ
+v85.3	85	3	49	purekkhato tehi bhikkhūhi	ปุเรกฺขโต เตหิ ภิกฺขูหิ
+v85.4	85	4	49	nāgo nāgehi tādīhi	นาโค นาเคหิ ตาทีหิ
+v85.5	85	5	49	tiṇṇo tiṇṇehi santehi	ติณฺโณ ติณฺเณหิ สนฺเตหิ
+v85.6	85	6	49	saddhiṃ santisamāgato	สทฺธิํ สนฺติสมาคโต
+v86.1	86	1	49	saddhiṃ sāvakasaṃghehi	สทฺธิํ สาวกสํเฆหิ
+v86.2	86	2	49	parivāretvā mahāmuni	ปริวาเรตฺวา มหามุนิ
+v86.3	86	3	49	anukampako kāruṇiko	อนุกมฺปโก การุณิโก
+v86.4	86	4	49	metteyyo dvipaduttamo	เมตฺเตยฺโย ทฺวิปทุตฺตโม
+v87.1	87	1	49	uddharanto bahusatte	อุทฺธรนฺโต พหุสตฺเต
+v87.2	87	2	49	nibbāpento sadevake	นิพฺพาเปนฺโต สเทวเก
+v87.3	87	3	49	gāmanigamarājadhāniṃ	คามนิคมราชธานิํ
+v87.4	87	4	49	carissati cārikaṃ jino	จริสฺสติ จาริกํ ชิโน
+v88.1	88	1	49	āhanitvā dhammabheriṃ	อาหนิตฺวา ธมฺมเภริํ
+v88.2	88	2	49	dhammasaṅkhapalāpanaṃ	ธมฺมสงฺขปลาปนํ
+v88.3	88	3	49	dhammayāgaṃ pakittento	ธมฺมยาคํ ปกิตฺเตนฺโต
+v88.4	88	4	49	dhammadhajaṃ samussayaṃ	ธมฺมธชํ สมุสฺสยํ
+v89.1	89	1	49	nadanto sīhanadaṃ 'va	นทนฺโต สีหนทํ 'ว
+v89.2	89	2	49	vattento cakkam uttamaṃ	วตฺเตนฺโต จกฺกมฺ อุตฺตมํ
+v89.3	89	3	49	rasuttamaṃ saccapānaṃ	รสุตฺตมํ สจฺจปานํ
+v89.4	89	4	49	pāyanto naranārīnaṃ	ปายนฺโต นรนารีนํ
+v90.1	90	1	49	hitāya sabbasattānaṃ	หิตาย สพฺพสตฺตานํ
+v90.2	90	2	49	nāthānāthaṃ mahājanaṃ	นาถานาถํ มหาชนํ
+v90.3	90	3	49	bodhento bodhaneyyānaṃ	โพเธนฺโต โพธเนยฺยานํ
+v90.4	90	4	49	carissati cārikaṃ jino	จริสฺสติ จาริกํ ชิโน
+v91.1	91	1	49	kassaci saraṇāgamane	กสฺสจิ สรณาคมเน
+v91.2	91	2	49	nivesessati cakkhumā	นิเวเสสฺสติ จกฺขุมา
+v91.3	91	3	49	kassaci pañcasīlesu	กสฺสจิ ปญฺจสีเลสุ
+v91.4	91	4	49	kassaci kusale dasa	กสฺสจิ กุสเล ทส
+v92.1	92	1	49	kassaci dassati sāmaññaṃ	กสฺสจิ ทสฺสติ สามญฺญํ
+v92.2	92	2	49	caturo phalamuttame	จตุโร ผลมุตฺตเม
+v92.3	92	3	49	kassaci asame dhamme	กสฺสจิ อสเม ธมฺเม
+v92.4	92	4	49	dassati paṭisambhidā	ทสฺสติ ปฏิสมฺภิทา
+v93.1	93	1	49	kassaci varasaṃpattī	กสฺสจิ วรสํปตฺตี
+v93.2	93	2	49	aṭṭha dassati cakkhumā	อฏฺฐ ทสฺสติ จกฺขุมา
+v93.3	93	3	49	kassaci tisso vijjāyo	กสฺสจิ ติสฺโส วิชฺชาโย
+v93.4	93	4	49	chaḷabhiññā pavacchati	ฉฬภิญฺญา ปวจฺฉติ
+v94.1	94	1	50	tena yogena janakāyaṃ	เตน โยเคน ชนกายํ
+v94.2	94	2	50	ovadissati so jino	โอวทิสฺสติ โส ชิโน
+v94.3	94	3	50	tadā vitthārikaṃ hessā	ตทา วิตฺถาริกํ เหสฺสา
+v94.4	94	4	50	metteyyajinasāsanaṃ	เมตฺเตยฺยชินสาสนํ
+v95.1	95	1	50	bodhaneyyajanaṃ disvā	โพธเนยฺยชนํ ทิสฺวา
+v95.2	95	2	50	satasahasse pi yojane	สตสหสฺเส ปิ โยชเน
+v95.3	95	3	50	khaṇena upagantvāna	ขเณน อุปคนฺตฺวาน
+v95.4	95	4	50	bodhayissati so muni	โพธยิสฺสติ โส มุนิ
+v96.1	96	1	50	mātā brahmavatī nāma	มาตา พฺรหฺมวตี นาม
+v96.2	96	2	50	subrahmā nāma so pitā	สุพฺรหฺมา นาม โส ปิตา
+v96.3	96	3	50	purohito saṅkharañño	ปุโรหิโต สงฺขรญฺโญ
+v96.4	96	4	50	metteyyassa tadā bhave	เมตฺเตยฺยสฺส ตทา ภเว
+v97.1	97	1	50	asoko brahmadevo ca	อโสโก พฺรหฺมเทโว จ
+v97.2	97	2	50	aggā hessanti sāvakā	อคฺคา เหสฺสนฺติ สาวกา
+v97.3	97	3	50	sīho nāma upaṭṭhako	สีโห นาม อุปฏฺฐโก
+v97.4	97	4	50	upaṭṭhissati taṃ jinaṃ	อุปฏฺฐิสฺสติ ตํ ชินํ
+v98.1	98	1	50	padumā c'eva sumanā	ปทุมา จฺ'เอว สุมนา
+v98.2	98	2	50	ca aggā hessanti sāvikā	จ อคฺคา เหสฺสนฺติ สาวิกา
+v98.3	98	3	50	sumano c'eva saṃgho ca	สุมโน จฺ'เอว สํโฆ จ
+v98.4	98	4	50	bhavissant' aggupaṭṭhakā	ภวิสฺสนฺตฺ' อคฺคุปฏฺฐกา
+v99.1	99	1	50	yasavatī ca saṃghā ca	ยสวตี จ สํฆา จ
+v99.2	99	2	50	bhavissant' aggupaṭṭhikā	ภวิสฺสนฺตฺ' อคฺคุปฏฺฐิกา
+v99.3	99	3	50	bodhitassa bhagavato	โพธิตสฺส ภควโต
+v99.4	99	4	50	nāgarukkho bhavissati	นาครุกฺโข ภวิสฺสติ
+v100.1	100	1	50	vīsahattha satakkhando	วีสหตฺถ สตกฺขนฺโท
+v100.2	100	2	50	sākhā vīsasatāni ca	สาขา วีสสตานิ จ
+v100.3	100	3	50	saṃvellitaggā lalitā	สํเวลฺลิตคฺคา ลลิตา
+v100.4	100	4	50	morahattho 'va sobhati	โมรหตฺโถ 'ว โสภติ
+v101.1	101	1	50	supupphitaggā satataṃ	สุปุปฺผิตคฺคา สตตํ
+v101.2	101	2	50	surabhidevagandhikā	สุรภิเทวคนฺธิกา
+v101.3	101	3	50	nāḷipūrā bhave	นาฬิปูรา ภเว
+v101.4	101	4	50	reṇusuphullā cakkamattakā	เรณุสุผุลฺลา จกฺกมตฺตกา
+v102.1	102	1	50	anuvātapaṭivātamhi	อนุวาตปฏิวาตมฺหิ
+v102.2	102	2	50	vāyati dasayojane	วายติ ทสโยชเน
+v102.3	102	3	50	ajjhokirissanti pupphāni	อชฺโฌกิริสฺสนฺติ ปุปฺผานิ
+v102.4	102	4	50	bodhimaṇḍe samantato	โพธิมณฺเฑ สมนฺตโต
+v103.1	103	1	50	samāgantvā jānapadā	สมาคนฺตฺวา ชานปทา
+v103.2	103	2	50	ghāyitvā gandham uttamaṃ	ฆายิตฺวา คนฺธมฺ อุตฺตมํ
+v103.3	103	3	50	vākyaṃ nicchāressanti	วากฺยํ นิจฺฉาเรสฺสนฺติ
+v103.4	103	4	50	tena gandhena moditā	เตน คนฺเธน โมทิตา
+v104.1	104	1	50	sukho vipāko puññānaṃ	สุโข วิปาโก ปุญฺญานํ
+v104.2	104	2	50	buddhaseṭṭhassa tādino	พุทฺธเสฏฺฐสฺส ตาทิโน
+v104.3	104	3	50	tassa tejena pupphānaṃ	ตสฺส เตเชน ปุปฺผานํ
+v104.4	104	4	50	acinteyyo pavāyati	อจินฺเตยฺโย ปวายติ
+v105.1	105	1	50	aṭṭhasīti bhave hattho	อฏฺฐสีติ ภเว หตฺโถ
+v105.2	105	2	50	āyāmen' eva so jino	อายาเมนฺ' เอว โส ชิโน
+v105.3	105	3	50	uraṃ bhave paṇṇavīsaṃ	อุรํ ภเว ปณฺณวีสํ
+v105.4	105	4	50	vikkhambhe tassa satthuno	วิกฺขมฺเภ ตสฺส สตฺถุโน
+v106.1	106	1	50	visālanetto āḷārakkhi	วิสาลเนตฺโต อาฬารกฺขิ
+v106.2	106	2	50	visuddhanayano isi	วิสุทฺธนยโน อิสิ
+v106.3	106	3	50	animmisaṃ divārattiṃ	อนิมฺมิสํ ทิวารตฺติํ
+v106.4	106	4	50	aṇuṃ thūlaṃ maṃsacakkhunā	อณุํ ถูลํ มํสจกฺขุนา
+v107.1	107	1	51	anāvaraṇaṃ passeyya	อนาวรณํ ปสฺเสยฺย
+v107.2	107	2	51	samantā dvādasayojanaṃ	สมนฺตา ทฺวาทสโยชนํ
+v107.3	107	3	51	pabhā niddhāvati tassa	ปภา นิทฺธาวติ ตสฺส
+v107.4	107	4	51	yāvatā paṇṇavīsati	ยาวตา ปณฺณวีสติ
+v108.1	108	1	51	sobhati vijjulaṭṭhi va	โสภติ วิชฺชุลฏฺฐิ ว
+v108.2	108	2	51	dīparukkho 'va so jino	ทีปรุกฺโข 'ว โส ชิโน
+v108.3	108	3	51	ratanagghikasaṃkāso	รตนคฺฆิกสํกาโส
+v108.4	108	4	51	bhānumā viya bhāhiti	ภานุมา วิย ภาหิติ
+v109.1	109	1	51	lakkhaṇānubyañjanā raṃsī	ลกฺขณานุพฺยญฺชนา รํสี
+v109.2	109	2	51	dissanti sabbakālikā	ทิสฺสนฺติ สพฺพกาลิกา
+v109.3	109	3	51	patanti vividhā raṃsī	ปตนฺติ วิวิธา รํสี
+v109.4	109	4	51	anekasatasahassiyo	อเนกสตสหสฺสิโย
+v110.1	110	1	51	pāduddhāre pāduddhāre	ปาทุทฺธาเร ปาทุทฺธาเร
+v110.2	110	2	51	suphullā padumaruhā	สุผุลฺลา ปทุมรุหา
+v110.3	110	3	51	tiṃsahatthā samāpattā	ติํสหตฺถา สมาปตฺตา
+v110.4	110	4	51	anupattā paṇṇavīsati	อนุปตฺตา ปณฺณวีสติ
+v111.1	111	1	51	kesarā vīsatihatthā	เกสรา วีสติหตฺถา
+v111.2	111	2	51	kaṇṇikā soḷasaṃ bhave	กณฺณิกา โสฬสํ ภเว
+v111.3	111	3	51	surattareṇubharitā	สุรตฺตเรณุภริตา
+v111.4	111	4	51	padumā kokasamantare	ปทุมา โกกสมนฺตเร
+v112.1	112	1	51	kāmāvacarikā devā	กามาวจริกา เทวา
+v112.2	112	2	51	nimminissanti agghike	นิมฺมินิสฺสนฺติ อคฺฆิเก
+v112.3	112	3	51	nāgarājā ca supaṇṇā	นาคราชา จ สุปณฺณา
+v112.4	112	4	51	ca tadā te 'laṃkarissare	จ ตทา เต 'ลํกริสฺสเร
+v113.1	113	1	51	aṭṭha sovaṇṇayā agghī	อฏฺฐ โสวณฺณยา อคฺฆี
+v113.2	113	2	51	aṭṭha rūpimayāni ca	อฏฺฐ รูปิมยานิ จ
+v113.3	113	3	51	aṭṭha maṇimayā agghī	อฏฺฐ มณิมยา อคฺฆี
+v113.4	113	4	51	aṭṭha pavāḷamayāni ca	อฏฺฐ ปวาฬมยานิ จ
+v114.1	114	1	51	anekaratanasaṃcittā	อเนกรตนสํจิตฺตา
+v114.2	114	2	51	dhajamālāvibhūsitā	ธชมาลาวิภูสิตา
+v114.3	114	3	51	lambamānā kīḷissanti	ลมฺพมานา กีฬิสฺสนฺติ
+v114.4	114	4	51	dhajā nekasatā bahū	ธชา เนกสตา พหู
+v115.1	115	1	51	maṇimuttadāmabhūsitā	มณิมุตฺตทามภูสิตา
+v115.2	115	2	51	vitānā somasannibhā	วิตานา โสมสนฺนิภา
+v115.3	115	3	51	parikkhittā kiṅkaṇikajālā	ปริกฺขิตฺตา กิงฺกณิกชาลา
+v115.4	115	4	51	vaṭaṃsakaratanā bahū	วฏํสกรตนา พหู
+v116.1	116	1	51	nānāpupphā vikirissanti	นานาปุปฺผา วิกิริสฺสนฺติ
+v116.2	116	2	51	surabhigandhasugandhikā	สุรภิคนฺธสุคนฺธิกา
+v116.3	116	3	51	vividhā nānācuṇṇāni	วิวิธา นานาจุณฺณานิ
+v116.4	116	4	51	dibbamānussakāni ca	ทิพฺพมานุสฺสกานิ จ
+v117.1	117	1	51	vicittā nānādussāni	วิจิตฺตา นานาทุสฺสานิ
+v117.2	117	2	51	pañcavaṇṇikasobhanā	ปญฺจวณฺณิกโสภนา
+v117.3	117	3	51	abhipasannā buddhasmiṃ	อภิปสนฺนา พุทฺธสฺมิํ
+v117.4	117	4	51	kīḷissanti samantato	กีฬิสฺสนฺติ สมนฺตโต
+v118.1	118	1	51	tattha sahassamubbedhā	ตตฺถ สหสฺสมุพฺเพธา
+v118.2	118	2	51	dassaneyyā manoramā	ทสฺสเนยฺยา มโนรมา
+v118.3	118	3	51	ratanagghikatoraṇā	รตนคฺฆิกโตรณา
+v118.4	118	4	51	asaṃbādhā susaṃṭhitā	อสํพาธา สุสํฐิตา
+v119.1	119	1	51	sobhamānā padissanti	โสภมานา ปทิสฺสนฺติ
+v119.2	119	2	51	visālā sabbato pabhā	วิสาลา สพฺพโต ปภา
+v119.3	119	3	51	tesaṃ majjhagato buddho	เตสํ มชฺฌคโต พุทฺโธ
+v119.4	119	4	51	bhikkhusaṃghapurekkhato	ภิกฺขุสํฆปุเรกฺขโต
+v120.1	120	1	51	brahmā va pārisajjānaṃ	พฺรหฺมา ว ปาริสชฺชานํ
+v120.2	120	2	51	indo 'va vimānantare	อินฺโท 'ว วิมานนฺตเร
+v120.3	120	3	51	gacchanti buddhe gacchante	คจฺฉนฺติ พุทฺเธ คจฺฉนฺเต
+v120.4	120	4	51	tiṭṭhamānamhi thassare	ติฏฺฐมานมฺหิ ถสฺสเร
+v121.1	121	1	51	nisinne sayite cāpi	นิสินฺเน สยิเต จาปิ
+v121.2	121	2	51	satthari saha pārise	สตฺถริ สห ปาริเส
+v121.3	121	3	51	catu-iriyāpathe niccaṃ	จตุ-อิริยาปเถ นิจฺจํ
+v121.4	121	4	51	dhārayissanti sabbadā	ธารยิสฺสนฺติ สพฺพทา
+v122.1	122	1	51	etā c'aññā ca pūjāyo	เอตา จฺ'อญฺญา จ ปูชาโย
+v122.2	122	2	51	dibbamānussakā pi ca	ทิพฺพมานุสฺสกา ปิ จ
+v122.3	122	3	51	vividhāni pāṭihīrāni	วิวิธานิ ปาฏิหีรานิ
+v122.4	122	4	51	hessanti sabbakālikā	เหสฺสนฺติ สพฺพกาลิกา
+v123.1	123	1	52	anantapuññatejena	อนนฺตปุญฺญเตเชน
+v123.2	123	2	52	metteyyam abhipūjituṃ	เมตฺเตยฺยมฺ อภิปูชิตุํ
+v123.3	123	3	52	disvāna taṃ pāṭihīraṃ	ทิสฺวาน ตํ ปาฏิหีรํ
+v123.4	123	4	52	nānājaccā mahājanā	นานาชจฺจา มหาชนา
+v124.1	124	1	52	saputtadārāpāṇehi	สปุตฺตทาราปาเณหิ
+v124.2	124	2	52	saraṇaṃ hessanti satthuno	สรณํ เหสฺสนฺติ สตฺถุโน
+v124.3	124	3	52	ye brahmacariyaṃ carissanti	เย พฺรหฺมจริยํ จริสฺสนฺติ
+v124.4	124	4	52	sutvāna munino vacaṃ	สุตฺวาน มุนิโน วจํ
+v124.5	124	5	52	te tarissanti saṃsāraṃ	เต ตริสฺสนฺติ สํสารํ
+v124.6	124	6	52	maccudheyyaṃ suduttaraṃ	มจฺจุเธยฺยํ สุทุตฺตรํ
+v125.1	125	1	52	bahuggihī dhammacakkhuṃ	พหุคฺคิหี ธมฺมจกฺขุํ
+v125.2	125	2	52	visodhessanti te tadā	วิโสเธสฺสนฺติ เต ตทา
+v125.3	125	3	52	dasahi puññakiriyāhi	ทสหิ ปุญฺญกิริยาหิ
+v125.4	125	4	52	tīhi sucaritehi ca	ตีหิ สุจริเตหิ จ
+v126.1	126	1	52	āgamādhigamen' eva	อาคมาธิคเมนฺ' เอว
+v126.2	126	2	52	sodhayitvāna sādaraṃ	โสธยิตฺวาน สาทรํ
+v126.3	126	3	52	anudhammacārino hutvā	อนุธมฺมจาริโน หุตฺวา
+v126.4	126	4	52	bahū saggūpagā bhave	พหู สคฺคูปคา ภเว
+v127.1	127	1	52	na sakkā sabbaso vattuṃ	น สกฺกา สพฺพโส วตฺตุํ
+v127.2	127	2	52	ettakaṃ iti vā yasaṃ	เอตฺตกํ อิติ วา ยสํ
+v127.3	127	3	52	accantasukhitā niccaṃ	อจฺจนฺตสุขิตา นิจฺจํ
+v127.4	127	4	52	tasmiṃ gate kālasampade	ตสฺมิํ คเต กาลสมฺปเท
+v128.1	128	1	52	mahāyasā sukhenāpi	มหายสา สุเขนาปิ
+v128.2	128	2	52	āyuvaṇṇabalena ca	อายุวณฺณพเลน จ
+v128.3	128	3	52	dibbasaṃpatti vā tesaṃ	ทิพฺพสํปตฺติ วา เตสํ
+v128.4	128	4	52	mānussānaṃ bhavissati	มานุสฺสานํ ภวิสฺสติ
+v129.1	129	1	52	anubhutvā kāmasukhaṃ	อนุภุตฺวา กามสุขํ
+v129.2	129	2	52	addhānaṃ yāvaticchakaṃ	อทฺธานํ ยาวติจฺฉกํ
+v129.3	129	3	52	te pacchā sukhitā yeva	เต ปจฺฉา สุขิตา เยว
+v129.4	129	4	52	nibbisant' āyusaṃkhayā	นิพฺพิสนฺตฺ' อายุสํขยา
+v130.1	130	1	52	asītivassasahassāni	อสีติวสฺสสหสฺสานิ
+v130.2	130	2	52	tadā āyu bhavissare	ตทา อายุ ภวิสฺสเร
+v130.3	130	3	52	tāvatā tiṭṭhamāno so	ตาวตา ติฏฺฐมาโน โส
+v130.4	130	4	52	tāressati jane bahū	ตาเรสฺสติ ชเน พหู
+v131.1	131	1	52	paripakkamānase satte	ปริปกฺกมานเส สตฺเต
+v131.2	131	2	52	bodhayitvāna sabbaso	โพธยิตฺวาน สพฺพโส
+v131.3	131	3	52	avasesādiṭṭhasaccānaṃ	อวเสสาทิฏฺฐสจฺจานํ
+v131.4	131	4	52	maggāmaggam anusāsiyā	มคฺคามคฺคมฺ อนุสาสิยา
+v132.1	132	1	52	dhammokkaṃ dhammanāvañ ca	ธมฺโมกฺกํ ธมฺมนาวญฺ จ
+v132.2	132	2	52	dhammādāsañ ca osadhaṃ	ธมฺมาทาสญฺ จ โอสธํ
+v132.3	132	3	52	sakkaccena hi sattā	สกฺกจฺเจน หิ สตฺตา
+v132.4	132	4	52	ṭhapetvā āyatiṃ jino	ฐเปตฺวา อายติํ ชิโน
+v133.1	133	1	52	saddhiṃ sāvakasaṃghena	สทฺธิํ สาวกสํเฆน
+v133.2	133	2	52	katakiccena tādinā	กตกิจฺเจน ตาทินา
+v133.3	133	3	52	jalitvā aggikkhandho va	ชลิตฺวา อคฺคิกฺขนฺโธ ว
+v133.4	133	4	52	nibbāyissati so jino	นิพฺพายิสฺสติ โส ชิโน
+v134.1	134	1	52	parinibbutamhi sambuddhe	ปรินิพฺพุตมฺหิ สมฺพุทฺเธ
+v134.2	134	2	52	sāsanaṃ tassa ṭhāhiti	สาสนํ ตสฺส ฐาหิติ
+v134.3	134	3	52	vassasatasahassāni	วสฺสสตสหสฺสานิ
+v134.4	134	4	52	asīti c'eva sahassako	อสีติ จฺ'เอว สหสฺสโก
+v134.5	134	5	52	tato paraṃ antaradhānaṃ	ตโต ปรํ อนฺตรธานํ
+v134.6	134	6	52	loke hessati dāruṇaṃ	โลเก เหสฺสติ ทารุณํ
+v135.1	135	1	52	evaṃ aniccā saṃkhārā	เอวํ อนิจฺจา สํขารา
+v135.2	135	2	52	adhuvā tāvakālikā	อธุวา ตาวกาลิกา
+v135.3	135	3	52	ittarā bhedanā c'eva	อิตฺตรา เภทนา จฺ'เอว
+v135.4	135	4	52	jajjarā rittakā bhavā	ชชฺชรา ริตฺตกา ภวา
+v136.1	136	1	53	tucchamuṭṭhi samā suññā	ตุจฺฉมุฏฺฐิ สมา สุญฺญา
+v136.2	136	2	53	saṃkhārā bālalāpanā	สํขารา พาลลาปนา
+v136.3	136	3	53	na kassaci vaso tattha	น กสฺสจิ วโส ตตฺถ
+v136.4	136	4	53	vattati iddhimassa pi	วตฺตติ อิทฺธิมสฺส ปิ
+v137.1	137	1	53	evaṃ ñatvā yathā bhūtaṃ	เอวํ ญตฺวา ยถา ภูตํ
+v137.2	137	2	53	nibbinde sabbasaṃkhate	นิพฺพินฺเท สพฺพสํขเต
+v137.3	137	3	53	dullabho purisājañño	ทุลฺลโภ ปุริสาชญฺโญ
+v137.4	137	4	53	na so sabbattha jāyati	น โส สพฺพตฺถ ชายติ
+v137.5	137	5	53	yattha so jāyati dhīro	ยตฺถ โส ชายติ ธีโร
+v137.6	137	6	53	taṃ kulaṃ sukham edhati	ตํ กุลํ สุขมฺ เอธติ
+v138.1	138	1	53	tasmā metteyyabuddhassa	ตสฺมา เมตฺเตยฺยพุทฺธสฺส
+v138.2	138	2	53	dassanatthāya vo idha	ทสฺสนตฺถาย โว อิธ
+v138.3	138	3	53	ubbiggamānasā suṭṭhuṃ	อุพฺพิคฺคมานสา สุฏฺฐุํ
+v138.4	138	4	53	karotha viriyaṃ daḷhaṃ	กโรถ วิริยํ ทฬฺหํ
+v139.1	139	1	53	ye kecīdha katakalyāṇā	เย เกจีธ กตกลฺยาณา
+v139.2	139	2	53	appamādavihārino	อปฺปมาทวิหาริโน
+v139.3	139	3	53	bhikkhū bhikkhuniyo c'eva	ภิกฺขู ภิกฺขุนิโย จฺ'เอว
+v139.4	139	4	53	upāsakā upāsikā	อุปาสกา อุปาสิกา
+v140.1	140	1	53	mahantaṃ buddhasakkāraṃ	มหนฺตํ พุทฺธสกฺการํ
+v140.2	140	2	53	uḷāraṃ abhipūjayaṃ	อุฬารํ อภิปูชยํ
+v140.3	140	3	53	dakkhinti bhadrasamitiṃ	ทกฺขินฺติ ภทฺรสมิติํ
+v140.4	140	4	53	tasmiṃ kāle sadevakā	ตสฺมิํ กาเล สเทวกา
+v141.1	141	1	53	caratha brahmacariyaṃ	จรถ พฺรหฺมจริยํ
+v141.2	141	2	53	detha dānaṃ yathārahaṃ	เทถ ทานํ ยถารหํ
+v141.3	141	3	53	uposathaṃ upavasatha	อุโปสถํ อุปวสถ
+v141.4	141	4	53	mettaṃ bhāvetha sādhukaṃ	เมตฺตํ ภาเวถ สาธุกํ
+v142.1	142	1	53	appamādaratā hotha	อปฺปมาทรตา โหถ
+v142.2	142	2	53	puññakriyāsu sabbadā	ปุญฺญกฺริยาสุ สพฺพทา
+v142.3	142	3	53	idh' eva katvā kusalaṃ	อิธฺ' เอว กตฺวา กุสลํ
+v142.4	142	4	53	dukkhass' antaṃ karissathā 'ti	ทุกฺขสฺสฺ' อนฺตํ กริสฺสถา 'ติ
+end			53	anāgatavaṃso niṭṭhito	อนาคตวํโส นิฏฺฐิโต
